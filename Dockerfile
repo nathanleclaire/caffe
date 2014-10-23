@@ -1,3 +1,4 @@
+# This caffe has giant kaiju powers
 FROM ubuntu:14.04
 
 # Get latest ubuntu packages
